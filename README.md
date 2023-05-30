@@ -1,1 +1,2 @@
 # Penetration-Test-Report
+Conducted a penetration test by attacking a fictional organization’s web application, Linux servers, and Windows servers. Attacked injection vulnerabilities by SQL and cross site scripting, and back-end component vulnerabilities by directory traversal. Attacked authentication vulnerabilities by session management and brute force attacks. Used the web application testing tool Burp Suite. Used penetration testing tools Metasploit, Meterpreter, Nmap, and Recon-ng.
